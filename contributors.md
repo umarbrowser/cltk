@@ -145,4 +145,5 @@ CLTK Core authors, ordered alphabetically by first name
 ## Tyler Kirby <tyler.kirby9398@gmail.com>
 * cltk/prosody/latin/clausulae_analysis.py
 * cltk/prosody/latin/macronizer.py
+## umarbrowser(pyc0d3r) <umarbrowser20@gmail.com>
 
